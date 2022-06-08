@@ -1,0 +1,22 @@
+body{background-image:url(../imgs/fondo.webp)}
+body p {font-family: "helvetica"}
+body h1 {font-family: Georgia;}
+body h2 {font-family: Verdana;}
+body h1 {color: rgb(0, 0, 0);}
+body p {font-weight: 900;}
+.TextoGrande {background-color: rgb(255, 255, 255);}
+.TextoGrande {font-size: 15px;}
+#DatosPersonales {
+background-image:url(../imgs/fondo2.jpg);
+padding: 20px;
+margin: 30px;
+}
+body h3 {font-size: 25px;}
+body h3 {background-color: rgb(136, 103, 103);}
+body h2{background-color: rgb(152, 107, 107);}
+#DatosAcademicos {
+background-image: url(../imgs/fondo3.jpg);
+padding: 20px;
+margin: 30px;
+}
+h1,h2,h3 {border: solid 15px black;}
